@@ -1,0 +1,22 @@
+li a
+{
+   color: #66ff00;
+}
+
+li a strong
+{
+   color: #cc00ff;
+}
+
+.destacado
+{
+   color: #8f8f00;
+   font-size: 24px;
+}
+
+strong .destacado
+{
+   text-decoration: underline;
+   color: #e60a0a;
+   font-size: 25px;
+}
